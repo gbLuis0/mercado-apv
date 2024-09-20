@@ -1,0 +1,94 @@
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.exe
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.deps.json
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.runtimeconfig.json
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.Form1.resources
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.FormConsultaProduto.resources
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.FormRegistroVendas.resources
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.GenerateResource.cache
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfoInputs.cache
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfo.cs
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\refint\Mercadinho.dll
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.genruntimeconfig.cache
+C:\Users\202212030002\source\repos\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\ref\Mercadinho.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.exe
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.deps.json
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.runtimeconfig.json
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.Form1.resources
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.FormConsultaProduto.resources
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.frmRegistroVendas.resources
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.GenerateResource.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\refint\Mercadinho.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.genruntimeconfig.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Mercadinho\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\ref\Mercadinho.dll
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.Form1.resources
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.frmConsultaProduto.resources
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.frmRegistroVendas.resources
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.GenerateResource.cache
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfoInputs.cache
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfo.cs
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\refint\Mercadinho.dll
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\202212030009\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.AssemblyReference.cache
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.AssemblyReference.cache
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.Form1.resources
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.frmConsultaProduto.resources
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.frmRegistroVendas.resources
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.Properties.Resources.resources
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.GenerateResource.cache
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfoInputs.cache
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfo.cs
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\refint\Mercadinho.dll
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.exe
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.deps.json
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.runtimeconfig.json
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.CopyComplete
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.genruntimeconfig.cache
+C:\Users\202212030002\Downloads\Mercadinho-20240919T141921Z-001\Mercadinho\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\ref\Mercadinho.dll
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.exe
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.deps.json
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.runtimeconfig.json
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.AssemblyReference.cache
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.Form1.resources
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.frmConsultaProduto.resources
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.frmRegistroVendas.resources
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.Properties.Resources.resources
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.GenerateResource.cache
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfoInputs.cache
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.AssemblyInfo.cs
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.csproj.Up2Date
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.dll
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\refint\Mercadinho.dll
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.pdb
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\Mercadinho.genruntimeconfig.cache
+C:\Users\spyware\Downloads\Mercadinho\Mercadinho\obj\Debug\net8.0-windows\ref\Mercadinho.dll
