@@ -39,6 +39,8 @@ CREATE TABLE `produto` (
 LOCK TABLES `produto` WRITE;
 /*!40000 ALTER TABLE `produto` DISABLE KEYS */;
 INSERT INTO `produto` VALUES (1,'Colher','Cozinha',200,0);
+INSERT INTO `produto` VALUES (2,'Sabão','Limpeza',5,1);
+INSERT INTO `produto` VALUES (3,'Macarrão','Comida',2,0);
 /*!40000 ALTER TABLE `produto` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -64,7 +66,7 @@ CREATE TABLE `vendas` (
 
 LOCK TABLES `vendas` WRITE;
 /*!40000 ALTER TABLE `vendas` DISABLE KEYS */;
-INSERT INTO `vendas` VALUES (1,'Colher',22,'Pix'),(3,'Casa',1,'pix');
+INSERT INTO `vendas` VALUES (1,'Colher',22,'Pix'),(3,'Macarrão',2,'pix');
 /*!40000 ALTER TABLE `vendas` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
